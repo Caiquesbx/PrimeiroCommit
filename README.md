@@ -1,6 +1,6 @@
 # PrimeiroCommit
 Primeiro contato 
-<h1 align="center"> Meu Primeiro Repositório 🥇</h1>>
+<h1 align="center"> Meu Primeiro Repositório 🥇</h1>
 
 # 6 codigos diferentes
 
@@ -9,3 +9,4 @@ Primeiro contato
 - `git help` : é um comando do terminal que traz diversas informações sobre os comandos do git⛑️
 - `git config` : permite ver e atribuir variáveis de configuração que controlam todos os aspectos de como o Git aparece e opera⚙️
 - `git status` :  exibe as condições do diretório de trabalho e da área de staging⭐
+- `git remote -v` : Para verificar se você definiu a URL remota corretamente, execute o seguinte comando✈️
